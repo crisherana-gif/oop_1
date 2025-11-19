@@ -1,4 +1,4 @@
-# Library Management System (Student Activity)
+# Library Management System
 
 ## Description
 A simple Library Management System implemented in Java for a student programming activity. The system uses three text files to store data:
